@@ -1,0 +1,6 @@
+t2 world cube = 
+1       0                0            1 
+0   cos(pi*sqrt2/8) -sin(pi*sqrt2/8)  1 
+0   sin(pi*sqrt2/8)  cos(pi*sqrt2/8)  2 
+0       0                0            1 
+
